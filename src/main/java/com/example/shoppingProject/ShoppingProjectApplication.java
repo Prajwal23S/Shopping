@@ -10,6 +10,7 @@ public class ShoppingProjectApplication {
 		SpringApplication.run(ShoppingProjectApplication.class, args);
 		System.out.println("Run Successfull .........");
 		System.out.println("New Line to Test");
+		System.out.println("New Line Inserted from Github");
 	}
 
 }
